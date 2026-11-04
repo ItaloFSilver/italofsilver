@@ -1,4 +1,4 @@
-# Olá, eu sou o Ítalo! 👋
+# Olá, eu sou o Ítalo Silvério! 
 
 **Desenvolvedor Backend / Full Stack | Game Dev | Entusiasta em Robótica e Automação IA**
 
@@ -12,17 +12,18 @@ Sou estudante do 5º período de **Ciência da Computação na UFJF** e apaixona
 
 * 💳 [**ConectFin**](https://www.conectfin.com)**:** Atuo como Desenvolvedor de Software construindo soluções financeiras para MEIs utilizando **Node.js** e **React**. Destaco meu trabalho na implementação de automações de processos e revisão de código com agentes de IA.
 
-* 🤖 **Equipe Rinobot UFJF:** Fui **Coordenador de Programação da categoria Mini Sumô**. Desenvolvo a lógica autônoma dos nossos robôs utilizando **C++ e POO**. Representamos a equipe em torneios como a *RCX 2026* e a *Ironcup*.
+* 🤖 **Equipe Rinobot UFJF:** Sou **Coordenador de Programação da categoria Mini Sumô**. Desenvolvo a lógica autônoma dos nossos robôs utilizando **C++ e POO**. Representamos a equipe em torneios como a *RCX 2026* e a *Ironcup*.
 
 ## 🛠️ Tech Stack & Ferramentas
 
-| Categoria | Tecnologias | 
-| ----- | ----- | 
-| **Linguagens** | `Java`, `TypeScript`, `JavaScript`, `C++`, `Python` | 
-| **Backend** | `Spring Boot`, `Node.js`, `REST APIs` | 
-| **Banco de Dados** | `PostgreSQL` | 
-| **Frontend & UI** | `React`, `HTML5`, `CSS3` | 
-| **Práticas & Ferramentas** | `Git/GitHub`, `AI-Assisted Development`, `POO`, `Game Dev` | 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,js,cpp,python,spring,nodejs,postgres,react,html,css,git,github" alt="Minhas Skills" />
+  </a>
+</div>
+<br>
+
+**Práticas:** `AI-Assisted Development`, `Programação Orientada a Objetos (POO)`, `REST APIs`, `Game Dev`
 
 ## 🏆 Projetos de Destaque
 
@@ -34,8 +35,4 @@ Sou estudante do 5º período de **Ciência da Computação na UFJF** e apaixona
 
 ## 📫 Como me encontrar
 
-<div align="left">
-  <a href="mailto:fagundessilverio22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+<a href="mailto:fagundessilverio22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
