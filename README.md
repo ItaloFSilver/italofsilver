@@ -1,4 +1,4 @@
-# Olá, eu sou o Ítalo Silvério! 
+# Olá, eu sou o Ítalo Fagundes Silvério! 
 
 **Desenvolvedor Backend / Full Stack | Game Dev | Entusiasta em Robótica e Automação IA**
 
